@@ -16,7 +16,7 @@ Designed with offline support and smooth audio transitions.`,
       Database: ["Firebase Firestore"],
       Others: ["REST API", "Audio Streaming"],
     },
-    video: "/muze.mp4",
+    video: "/Muze.mp4",
     demo: "https://play.google.com/store/apps/details?id=com.myuze.play",
   },
   {
