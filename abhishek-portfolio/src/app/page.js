@@ -3,8 +3,8 @@
 import Head from "next/head";
 import dynamic from "next/dynamic";
 import Navbar from "./components/Navbar.js";
-// import Hero from "./components/Hero.js";
-const Hero = dynamic(() => import("./components/Hero.js"), { ssr: false });
+import Hero from "./components/Hero.js";
+// const Hero = dynamic(() => import("./components/Hero.js"), { ssr: false });
 // import Hero from "./components/Hero.js";
 import Services from "./components/Services.js";
 import Skills from "./components/Skills.js";
